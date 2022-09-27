@@ -4,6 +4,5 @@ arr2 = []
 while index < len(arr):
     b = arr[index]
     if  len(b) > 2:
-        arr2.append(b)
     index += 1
 print(arr2)
